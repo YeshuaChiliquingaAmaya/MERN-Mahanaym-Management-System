@@ -53,6 +53,7 @@ cd MERN-Mahanaym-Management-System/backend
 
 ### **2. Instalar Dependencias**
 ```bash
+cd backend
 npm install
 ```
 
@@ -69,7 +70,7 @@ JWT_SECRET=your_jwt_secret_key
 
 ### **4. Ejecutar el Servidor**
 ```bash
-npm start
+npm run dev
 ```
 
 El servidor se ejecutará en `http://localhost:5000`.
@@ -111,7 +112,7 @@ La aplicación se abrirá automáticamente en `http://localhost:3000`.
 1. Inicia el servidor backend:
    ```bash
    cd backend
-   npm start
+   npm run dev
    ```
 
 2. En otra terminal, inicia el frontend:
@@ -150,7 +151,7 @@ Si deseas contribuir al proyecto, sigue estos pasos:
 
 ## **Licencia**
 
-Este proyecto está bajo la licencia **MIT**. Consulta el archivo [LICENSE](LICENSE) para más detalles.
+Este proyecto está bajo la licencia **GNU**. Consulta el archivo [LICENSE](LICENSE) para más detalles.
 
 ---
 
@@ -158,9 +159,9 @@ Este proyecto está bajo la licencia **MIT**. Consulta el archivo [LICENSE](LICE
 
 Si tienes preguntas o sugerencias, no dudes en contactarme:
 
-- **Nombre**: Tu Nombre
-- **Correo Electrónico**: tu.correo@example.com
-- **GitHub**: [tu-usuario](https://github.com/tu-usuario)
+- **Nombre**: Yeshua Amador Chiliquinga Amaya
+- **Correo Electrónico**: yachiliquinga1@espe.edu.ec
+- **GitHub**: [tu-usuario](https://github.com/YeshuaChiliquingaAmaya)
 
 ---
 
